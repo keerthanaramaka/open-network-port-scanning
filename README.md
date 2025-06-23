@@ -11,14 +11,14 @@ This project helps you scan your **local network** to identify open ports on con
 
 
 # Target Host
-192.168.29,198 i.e., IPV4 Address
+192.168.29.198 i.e., IPV4 Address
 
 # Use Cases
 
--Security auditing
--Vulnerability assessment
--Network troubleshooting
--Penetration testing documentation
+- Security auditing.
+- Vulnerability assessment
+- Network troubleshooting
+- Penetration testing documentation
 
 ## Quick Start
 Run the scan with :
